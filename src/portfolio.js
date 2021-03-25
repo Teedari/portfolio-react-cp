@@ -90,7 +90,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "flutter",
-      fontAwesomeClassname: "fas fa-mobile"
+      fontAwesomeClassname: "fab fa-foursquare"
     }
   ],
   display: true // Set false to hide this section, defaults to true
